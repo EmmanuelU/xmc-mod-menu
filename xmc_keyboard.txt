@@ -1,0 +1,37 @@
+XMC Keyboard Controls:
+
+Mods:
+E - Eject from Car
+K - Kick Players out of Car
+
+Mod Toggles:
+G - Godmode
+I - Invisiblity
+J - SuperJump
+R - SuperRun
+F - Fire
+H - HeliStrike
+S - SuperPunch
+W - Walk/Drive on Water
+P - Smart Protection
+N - Inferno
+C - Chronicle
+B - Super Bike
+M - Modder Protection
+D - Rocket Deagle
+X - RocketMan
+T - Teleport to saved location
+L - Car Launcher
+
+Teleports:
+0 - In Nearest Car
+1 - Waypoint
+2 - Airport
+3 - Majestic Hotel
+4 - Playboy X Pad
+5 - Empire State Building
+6 - Prison
+7 - Subway
+8 - Sprunk Factory
+9 - Construction Site
+Space - In Front
