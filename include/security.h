@@ -4,7 +4,7 @@
 #define PRIVATE 
 //#define PREVIEW
 #define RELEASE
-#define GTCHECK
+//#define GTCHECK
 #define ENGLISH
 //#define SPANISH
 //#define FRENCH
